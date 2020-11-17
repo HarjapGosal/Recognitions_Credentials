@@ -4,13 +4,13 @@
 * **Academic Achievement Award** (Grade 11) presented by high school.
 * **Computer Programming 11** Report.
   
+### Certificates and Recognitions related to Entrepreneurship, Leadership, Technology <h3>
+* Certificate of completion **Enterneurship: From Business Idea to Action** presented by **King's College, London**. 
+  
 ### Certificates and Recognitions related to Artificial Intelligence, NLP <h3>
 * Certificate of participation webinar - **Opportunities and Challenges in AI- (IEEE)**.
 * Certificate of participation webinar -  **Artificial Intelligence (AI) and Machine Learning (ML)**.
-* Certificate of participation webinar - **NLP in Punjabi**.
-
-### Certificates and Recognitions related to Entrepreneurship, Leadership, Technology <h3>
-* Certificate of completion **Enterneurship: From Business Idea to Action** presented by **King's College, London**. 
+* Certificate of participation webinar - *** Certificate of participation webinar - **Natural Language Processing: The State of Punjabi Language in Technology in Punjabi**.**.
 
 **French School Achievements**
 * Certificate of Felicitation 
