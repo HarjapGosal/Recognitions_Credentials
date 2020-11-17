@@ -1,1 +1,1 @@
-## Some of my academic Certificates/ Reports <h2>
+## Some of my Academic Certificates/ Reports <h2>
