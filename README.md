@@ -1,7 +1,8 @@
-# Recognitions, Credentials, Achievements <h1>
+# RECOGNITIONS, CREDENTIALS, ACHIEVEMENTS <h1>
 
-### High School Achievements <
-* Academic achievement award - Grade 11.
+### High School Achievements <h3>
+* **Academic Achievement Award** (Grade 11) presented by high school.
+* **Computer Programming 11** Report.
   
 ### Certificates and Recognitions related to Artificial Intelligence, NLP <h3>
 * Certificate of participation webinar - **Opportunities and Challenges in AI- (IEEE)**.
