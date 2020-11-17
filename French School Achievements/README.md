@@ -1,4 +1,4 @@
-## Ecole Les-enfants-du-mone (French School) certificates Achievements <h2>
+## Ecole Les-enfants-du-mone (French School) certificates of achievements <h2>
 * Certificate of Merit- French School (French)
 * Certificate of Felicitation- French School (Math)
 * Certificate of Felicitation 1 - French School
