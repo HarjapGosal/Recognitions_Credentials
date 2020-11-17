@@ -12,7 +12,7 @@
 ### Certificates and Recognitions related to Artificial Intelligence, NLP <h3>
 * Certificate of participation webinar - **Opportunities and Challenges in AI- (IEEE)**.
 * Certificate of participation webinar -  **Artificial Intelligence (AI) and Machine Learning (ML)**.
-* Certificate of participation webinar - *** Certificate of participation webinar - **Natural Language Processing: The State of Punjabi Language in Technology in Punjabi**.**.
+* Certificate of participation webinar - ** Certificate of participation webinar - **Natural Language Processing: The State of Punjabi Language in Technology in Punjabi**.
 
 ### Ecole Les-enfants-du-mone (French School) certificates of achievements <h2>
 * Certificate of Merit- French School (French)
