@@ -1,15 +1,15 @@
-## Recognitions, Credentials, Achievements <h2>
+# Recognitions, Credentials, Achievements <h1>
 
-**High School Achievements**
+### High School Achievements <
 * Academic achievement award - Grade 11.
   
-**Certificates and Recognitions related to Artificial Intelligence, NLP**
-* Certificate of participation webinar - Opportunities and Challenges in AI- (IEEE)
-* Certificate of participation webinar Artificial Intelligence (AI) and Machine Learning (ML)
-* Certificate of participation webinar NLP in Punjabi 
+### Certificates and Recognitions related to Artificial Intelligence, NLP <h3>
+* Certificate of participation webinar - **Opportunities and Challenges in AI- (IEEE)**.
+* Certificate of participation webinar -  **Artificial Intelligence (AI) and Machine Learning (ML)**.
+* Certificate of participation webinar - **NLP in Punjabi**.
 
-**Certificates and Recognitions related to Entrepreneurship, Leadership, Technology**
-* Certificate of completion **Enter** presented by **King's College, London**. 
+### Certificates and Recognitions related to Entrepreneurship, Leadership, Technology <h3>
+* Certificate of completion **Enterneurship: From Business Idea to Action** presented by **King's College, London**. 
 
 **French School Achievements**
 * Certificate of Felicitation 
@@ -23,5 +23,5 @@
 
 
 ### Infection Control, Standard - CPR, WHO COVID related certificates <h3>
- * Certificates related to infection control modules presented to me by Public Health.
- * Certificate of Completion in recognition of successful completion in Standard - CPR / AED presented to me on June 9, 2020.
+ * Certificates of Completion related to **infection control modules** presented to me by **Public Health**.
+ * Certificate of Completion in recognition of successful completion in **Standard - CPR / AED** presented to me on June 9, 2020.
